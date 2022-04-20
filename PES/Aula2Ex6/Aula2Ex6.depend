@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649254398 source:c:\users\aluno\documents\pes-joao\aula2ex6\main.cpp
+	<iostream>
+	<locale>
+	<cmath>
+
